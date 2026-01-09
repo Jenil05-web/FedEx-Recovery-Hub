@@ -77,18 +77,6 @@ This prototype is built using modern web standards to demonstrate the visual fid
 * **Styling:** CSS3 (Flexbox/Grid) & Enterprise Design System (FedEx Colors)
 * **Interactivity:** Vanilla JavaScript (ES6+) for Modal/Tab interactions
 
-### How to Run Locally
-Since this is a frontend design prototype, no complex backend installation is required to view the concept.
-
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/FedEx-Recovery-Hub.git](https://github.com/YOUR_USERNAME/FedEx-Recovery-Hub.git)
-    ```
-2.  **Launch**
-    * Navigate to the project folder.
-    * Open `index.html` in Chrome, Firefox, or Edge.
-
----
 
 ## 🔮 Future Roadmap (Backend Integration)
 
