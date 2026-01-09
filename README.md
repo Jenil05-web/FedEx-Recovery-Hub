@@ -15,49 +15,49 @@ This repository hosts the **High-Fidelity Frontend Prototype** for the FedEx Rec
 ### 1. Secure Role-Based Access
 *Enterprise-grade security starts at the door. Distinct login paths for FedEx Administrators and external DCA Agents ensure strict data segregation.*
 
-![Login Screen](screenshots/login.png)
+![Login Screen](Screenshots/login.png)
 
 ---
 
 ### 2. The Command Center (FedEx View)
 *Replacing spreadsheets with real-time insights. The Admin Dashboard provides an instant snapshot of Total Debt, Recovery Rates, and Agency Performance.*
 
-![Admin Dashboard](screenshots/DCA%20admin%20dashboard.png)
+![Admin Dashboard](Screenshots/DCA%20admin%20dashboard.png)
 
 #### Intelligent Ingestion
 *Automated CSV processing that cleanses data, validates entries, and prepares cases for AI scoring immediately upon upload.*
 
-![Upload Screen](screenshots/CSV%20upload%20Debator.png)
+![Upload Screen](Screenshots/CSV%20upload%20Debator.png)
 
 ---
 
 ### 3. Automated Case Allocation
 *The "Master List" where rules-based logic automatically assigns cases to the right agency (Alpha, Beta, Gamma) based on debt size and location—eliminating manual email coordination.*
 
-![Master List](screenshots/Master%20Case%20List%20DCAs.png)
+![Master List](Screenshots/Master%20Case%20List%20DCAs.png)
 
 ---
 
 ### 4. The Agent Workspace (AI-Powered)
 *Agents no longer call blindly. The "Prioritized Call List" uses **Propensity to Pay** scoring (Green/Yellow/Red) to direct effort where it matters most.*
 
-![Agent Workspace Top](screenshots/AI%20Prioritized%20callback%20system.png)
-![Agent Workspace List](screenshots/AI%20Priority%20system.png)
+![Agent Workspace Top](Screenshots/AI%20Prioritized%20callback%20system.png)
+![Agent Workspace List](Screenshots/AI%20Priority%20system.png)
 
 ---
 
 ### 5. AI Copilot & Strategy
 *When an agent selects a case, the **AI Recovery Engine** analyzes the debtor's history to recommend a specific strategy (e.g., "Non-aggressive") and even generates the script.*
 
-![AI Modal](screenshots/AI%20Recovery%20System.png)
+![AI Modal](Screenshots/AI%20Recovery%20System.png)
 
 ---
 
 ### 6. Governance & Compliance
 *Every action is immutable. The Audit Trail logs system events ("Payment Failed") and human actions ("Script Generated"), ensuring 100% compliance transparency.*
 
-![Audit Trail](screenshots/Audit%20Trail.png)
-![Timeline Detail](screenshots/Case%20History%20Audit%20Trail%20.png)
+![Audit Trail](Screenshots/Audit%20Trail.png)
+![Timeline Detail](Screenshots/Case%20History%20Audit%20Trail%20.png)
 
 ---
 
@@ -99,4 +99,4 @@ Since this is a frontend design prototype, no complex backend installation is re
 
 ---
 
-**Submitted by [Your Team Name]**
+**Submitted by [Git Resolvers]**
